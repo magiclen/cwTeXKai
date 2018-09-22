@@ -10,7 +10,7 @@ e.g.
 ```css
 p {
     font-family: local('cwTeXKai'), local('cwTeXKai Medium'), url('/path/to/cwTeXKai-zhonly.woff2') format('woff2');
-    font-size: 1.16rem;
+    font-size: 1.175em;
 }
 ```
 
